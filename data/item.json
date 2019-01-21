@@ -1,0 +1,20 @@
+[
+    {
+        "local_id": 0,
+        "type": "potion",
+        "healing": 30,
+        "name": "Plate Mail"
+    },
+    {
+        "local_id": 1,
+        "type": "stone",
+        "damage": 10,
+        "name": "Stone"
+    },
+    {
+        "local_id": 2,
+        "type": "banana",
+        "healing": 15,
+        "name": "banana"
+    }
+]

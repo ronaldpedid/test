@@ -1,0 +1,20 @@
+[
+    {
+        "local_id": "0",
+        "type": "sword",
+        "atk": "30",
+        "name": "Iron Sword"
+    },
+    {
+        "local_id": "1",
+        "type": "bow",
+        "atk": "45",
+        "name": "Longbow"
+    },
+    {
+        "local_id": "2",
+        "type": "gun",
+        "atk": "455",
+        "name": "Hand Cannon"
+    }
+]

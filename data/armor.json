@@ -1,0 +1,20 @@
+[
+    {
+        "local_id": "0",
+        "type": "plate",
+        "def": "30",
+        "name": "Plate Mail"
+    },
+    {
+        "local_id": "1",
+        "type": "helmet",
+        "def": "10",
+        "name": "Plate Helmet"
+    },
+    {
+        "local_id": "2",
+        "type": "gloves",
+        "def": "15",
+        "name": "Plate Gloves"
+    }
+]
